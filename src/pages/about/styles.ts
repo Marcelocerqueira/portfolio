@@ -97,6 +97,7 @@ export const Content = styled.div`
         padding: 0px 15px;
         position: relative;
         font-weight: 500;
+        margin-left: auto;
     }
     span {
         text-align: center;
