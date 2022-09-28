@@ -97,7 +97,7 @@ export const Content = styled.div`
         padding: 0px 15px;
         position: relative;
         font-weight: 500;
-        border: 1px solid red;
+        /* border: 1px solid red; */
     }
     span {
         text-align: center;
@@ -185,7 +185,6 @@ export const Painel = styled.div`
             font-size: 20px;
             text-align: center;
             align-items: center;
-            /* margin-left: -50%; */
         }
     }
 `;
